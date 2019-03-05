@@ -2,7 +2,7 @@
 
 Demo node weather app, made with request and yargs.
 
-Run ```node install``` to install all the dependencies in _**package.json**_.
+Run ```npm install``` to install all the dependencies in _**package.json**_.
 
 ```js
 node app.js -c=cityname
